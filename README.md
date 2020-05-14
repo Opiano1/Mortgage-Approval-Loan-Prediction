@@ -199,7 +199,7 @@ Here's an example of one of the rows in the dataset so that you can see the kind
 
 ## Author
 
--[Jean Salvi ](https://www.linkedin.com/in/jean-salvi-d-78aa9016b/)
+-<a href='https://www.linkedin.com/in/opeyemifabiyi/' >Opeyemi Fabiyi </a>
 
 ---
 
