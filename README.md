@@ -204,4 +204,4 @@ Here's an example of one of the rows in the dataset so that you can see the kind
 ---
 
 ## License & copyright
-Copyright (c) Jean Salvi ,lifelong learner |data science enthusiast
+Copyright (c) 
